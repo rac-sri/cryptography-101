@@ -29,7 +29,7 @@ The following document lists things you require to start your journey and unders
 - [Number Theory](https://www.coursera.org/learn/crypto/home/welcome) Week 5, sections 3 and 4.
 - [Fields](https://www.youtube.com/watch?v=MAhmV_omOwA&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=9&ab_channel=LambdaClass)
 - [Montgomery arithmetic](https://www.youtube.com/watch?v=hUl8ZB6hpUM&t=142s&ab_channel=RISCZero)
-- [Langrange Interpoliation[(https://www.geeksforgeeks.org/lagrange-interpolation-formula/)
+- [Langrange Interpolation](https://www.geeksforgeeks.org/lagrange-interpolation-formula/)
 
 ---
 
