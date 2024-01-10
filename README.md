@@ -114,5 +114,14 @@ The following document lists things you require to start your journey and unders
 
 ---
 
+### Programming ZKP
+
+- [Circom](https://docs.circom.io/getting-started/installation/)
+- [Gnark](https://docs.gnark.consensys.io/overview)
+- [Arkworks](https://github.com/arkworks-rs/)
+- [Zokrates](https://zokrates.github.io/)
+
+--- 
+
 For contributions, fork and create a pull request.
 Feel free to connect with me on [Twitter](https://twitter.com/privacy_prophet) or [LinkedIn](https://www.linkedin.com/in/rachit-anand-srivastava-345307173/) for any suggestion/chat.
