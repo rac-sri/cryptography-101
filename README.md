@@ -65,7 +65,7 @@ The following document lists things you require to start your journey and unders
 - [ECC explained by Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=257s&ab_channel=Computerphile)
 - [ECC by Dan Boneh](https://toc.cryptobook.us/)
 - [Bilinear Pairings](https://twitter.com/privacy_prophet/status/1738503612094148718)
-- [Bilinear Pairings](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2618796/no.ntnu%3Ainspera%3A2448650.pdf?sequence=1#:~:text=)
+- [Bilinear Pairings in-depth](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2618796/no.ntnu%3Ainspera%3A2448650.pdf?sequence=1#:~:text=)
   
 ---
 
