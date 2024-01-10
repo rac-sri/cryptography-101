@@ -60,7 +60,7 @@ The following document lists things you require to start your journey and unders
 - BLS Signatures
 
 ##### Resources:
-- [Public Key, RSA, ElGama](https://www.coursera.org/learn/crypto/home/week/6)
+- [Public Key, RSA, ElGamal](https://www.coursera.org/learn/crypto/home/week/6)
 - [Digital Signatures explained](https://www.youtube.com/watch?v=s22eJ1eVLTU&ab_channel=Computerphile)
 - [Digital Signatures](https://toc.cryptobook.us/)
 - [ECC explained by Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=257s&ab_channel=Computerphile)
