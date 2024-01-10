@@ -57,6 +57,7 @@ The following document lists things you require to start your journey and unders
 - Digital Signatures
 - Elliptic Curve Cryptography
 - Pairings
+- BLS Signatures
 
 ##### Resources:
 - [Public Key, RSA, ElGama](https://www.coursera.org/learn/crypto/home/week/6)
