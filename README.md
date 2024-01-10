@@ -87,6 +87,7 @@ The following document lists things you require to start your journey and unders
 
 ### Zero Knowledge Proofs
 ##### Prequistics:
+- Fields, Number Theory
 - ECC
 - Pairings
 
