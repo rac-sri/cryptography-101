@@ -114,6 +114,24 @@ The following document lists things you require to start your journey and unders
 
 ---
 
+### Homomorphic Encryption
+
+##### Topics Covered:
+- Bfv scheme
+- Bgv scheme
+- Ckks scheme
+- TFHE
+
+##### Resources
+- [Bfv scheme](https://www.inferati.com/blog/fhe-schemes-bfv)
+- [Bgv scheme](https://www.inferati.com/blog/fhe-schemes-bgv)
+- Ckks scheme
+  - [Ckks explained](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/)
+  - [Ckks alternate read](https://hackmd.io/@rishotics/B1P69977R)
+- [TFHE](https://www.zama.ai/post/tfhe-deep-dive-part-1)
+
+--- 
+
 ### Programming ZKP
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
