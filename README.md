@@ -65,6 +65,7 @@ The following document lists things you require to start your journey and unders
 - [Digital Signatures](https://toc.cryptobook.us/)
 - [ECC explained by Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=257s&ab_channel=Computerphile)
 - [ECC by Dan Boneh](https://toc.cryptobook.us/)
+- [Intuitive explanations of divisor and genus](https://math.stackexchange.com/questions/1609/intuitive-explanations-for-the-concepts-of-divisor-and-genus/1635#1635)
 - [Bilinear Pairings](https://twitter.com/privacy_prophet/status/1738503612094148718)
 - [Bilinear Pairings in-depth](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2618796/no.ntnu%3Ainspera%3A2448650.pdf?sequence=1#:~:text=)
 - [Bilinear Pairings by alinus](https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html)
