@@ -68,8 +68,11 @@ The following document lists things you require to start your journey and unders
 - [Bilinear Pairings](https://twitter.com/privacy_prophet/status/1738503612094148718)
 - [Bilinear Pairings in-depth](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2618796/no.ntnu%3Ainspera%3A2448650.pdf?sequence=1#:~:text=)
 - [Bilinear Pairings by alinus](https://alinush.github.io/2022/12/31/pairings-or-bilinear-maps.html)
-- [How Pairings Works by Florian Hess](https://www.youtube.com/watch?v=2mK1XcXV3qg&list=PL8Vt-7cSFnw2V2Wpf4MpwtSJvLvZo1ADB&index=14)
-  
+- Florian Hess BIU series on Pairing:
+  - Part 1: [How Pairings Works by Florian Hess](https://www.youtube.com/watch?v=2mK1XcXV3qg&list=PL8Vt-7cSFnw2V2Wpf4MpwtSJvLvZo1ADB&index=14)
+  - Part 2: [How pairings work and how to compute them efficiently](https://www.youtube.com/watch?v=dRRUwcMbvs0)
+  - Part 3: [Advance Constructions](https://www.youtube.com/watch?v=ClnGVVWmHmU&list=PL8Vt-7cSFnw2V2Wpf4MpwtSJvLvZo1ADB&index=15) 
+   
 ---
 
 ### Functional Encryption
