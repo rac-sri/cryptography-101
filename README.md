@@ -30,6 +30,7 @@ The following document lists things you require to start your journey and unders
 - [Fields](https://www.youtube.com/watch?v=MAhmV_omOwA&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=9&ab_channel=LambdaClass)
 - [Montgomery arithmetic](https://www.youtube.com/watch?v=hUl8ZB6hpUM&t=142s&ab_channel=RISCZero)
 - [Langrange Interpolation](https://www.geeksforgeeks.org/lagrange-interpolation-formula/)
+- [Abstract Algebtra](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 
 ---
 
@@ -49,6 +50,7 @@ The following document lists things you require to start your journey and unders
 ### Asymmetric Cryptography
 ##### Prerequisites:
 - Fundamental Mathematics
+- Abstract Algebra
 
 ##### Topics:
 - Public Key Cryptography
@@ -66,7 +68,6 @@ The following document lists things you require to start your journey and unders
 - [ECC explained by Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE&t=257s&ab_channel=Computerphile)
 - [ECC by Dan Boneh](https://toc.cryptobook.us/)
 - [Intuitive explanations of divisor and genus](https://math.stackexchange.com/questions/1609/intuitive-explanations-for-the-concepts-of-divisor-and-genus/1635#1635)
-- [Abstract Algebtra](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 - [Pairings for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
 - [Bilinear Pairings](https://twitter.com/privacy_prophet/status/1738503612094148718)
 - [Bilinear Pairings in-depth](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2618796/no.ntnu%3Ainspera%3A2448650.pdf?sequence=1#:~:text=)
