@@ -115,6 +115,7 @@ The following document lists things you require to start your journey and unders
 - [Programming FRI from scratch](https://blog.lambdaclass.com/how-to-code-fri-from-scratch/)
 - [Zk compilation from a16z](https://a16zcrypto.com/posts/article/zero-knowledge-canon/)
 - [Matter Labs Awesome Zero-knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs?tab=readme-ov-file)
+- [Advance Cryptography by MIT](https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/pages/lecture-1-interactive-proofs-and-the-sum-check-protocol/)
 
 
 ---
@@ -143,6 +144,7 @@ The following document lists things you require to start your journey and unders
 - [Gnark](https://docs.gnark.consensys.io/overview)
 - [Arkworks](https://github.com/arkworks-rs/)
 - [Zokrates](https://zokrates.github.io/)
+- [zkEVM Audit](https://www.notion.so/scrollzkp/zkEVM-Audit-Education-Session-11-15-11-22-86d60daceadb438f85908817f7082611)
 
 --- 
 
