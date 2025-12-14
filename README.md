@@ -129,14 +129,18 @@ The following document lists things you require to start your journey and unders
 - TFHE
 
 ##### Resources
-- [Bfv scheme](https://www.inferati.com/blog/fhe-schemes-bfv)
-- [Bgv scheme](https://www.inferati.com/blog/fhe-schemes-bgv)
 - Ckks scheme
   - [Ckks explained](https://blog.openmined.org/ckks-explained-part-1-simple-encoding-and-decoding/)
   - [Ckks alternate read](https://hackmd.io/@rishotics/B1P69977R)
 - [TFHE](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 
 --- 
+
+### Post Quantum Cryptography
+- [Lattice Hardness](https://www.youtube.com/watch?v=QDdOoYdb748)
+- [Learning with Errors](https://www.youtube.com/watch?v=K026C5YaB3A)
+- [Zandimon Notes](https://zamdimon.github.io/files/talks/lecture-notes/lattice-cryptography.pdf)
+- [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287)
 
 ### Programming ZKP
 
